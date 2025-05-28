@@ -19,5 +19,10 @@ Reinforcement learning for decision-making
 
 Project Structure
 Break down the folders and their purposes:
-\\\📂 self-driving-car-simulator ├── 📂 models # AI models for vehicle control ├── 📂 sensors # Code for simulating LIDAR, cameras, etc. ├── 📂 environment # Road and traffic settings ├── 📜 main.py # Entry point for running the simulator ├── 📜 README.md # You are here! \\\
+- 📂 **self-driving-car-simulator**
+  - 📂 models → AI models for vehicle control
+  - 📂 sensors → Code for simulating LIDAR, cameras, etc.
+  - 📂 environment → Road and traffic settings
+  - 📜 main.py → Entry point for running the simulator
+  - 📜 README.md → You are here!
 
