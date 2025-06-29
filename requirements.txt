@@ -1,7 +1,6 @@
 numpy
 pygame
 torch
-math
 random
 deque
 sys
